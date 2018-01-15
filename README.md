@@ -1,4 +1,4 @@
-![](https://github.com/mengziyu/WXtt/blob/master/images/Screenshot_1.png =480)
+![](https://github.com/mengziyu/WXtt/blob/master/images/Screenshot_1.png =480x)
 # 使用方法
 1. 打开辅助
 2. 对准红点，设置起始点和结束点，计算出距离（比如704）
